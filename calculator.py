@@ -1,0 +1,1 @@
+print("Welcome to Simple Calculator. Feel free to start your calculation!")
